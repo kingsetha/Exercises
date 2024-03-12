@@ -4,6 +4,8 @@ class Sample
     {
       System.out.println("HI");
       System.out.println("Good morning");
+      System.out.println("Happy morning");
       System.out.println("Happy day");
+
     }
   }
